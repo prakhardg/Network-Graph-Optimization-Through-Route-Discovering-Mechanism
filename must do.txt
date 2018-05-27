@@ -1,0 +1,5 @@
+Before executing the project, make sure you have the following libraries
+:
+itertools, copy, networkx , pandas, matplotlib,imageio
+
+otherwise install them first using pip
